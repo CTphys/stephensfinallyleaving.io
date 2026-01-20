@@ -2272,7 +2272,7 @@ input, select, textarea {
 /* Three */
 
 	#three {
-		background: url("images/IMG_6089.jpeg"), url("../../images/IMG_6089.jpeg");
+		background: url("images/IMG_6079.jpeg"), url("../../images/IMG_6079.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
